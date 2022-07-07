@@ -1,0 +1,53 @@
+body {
+  margin: 0px;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: #1F2937;
+  color: white;
+  display: flex;
+  flex: 0 0 auto;
+  height: 75px;
+  flex-direction: column;
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  justify-content: center;
+}
+
+.hero {
+  background-color: #1F2937;
+  color: white;
+  flex: 1 1 auto;
+}
+
+.content-top {
+  flex: 1 1 auto;
+}
+
+.content-mid {
+  flex: 1 1 auto;
+  background-color: #E5E7EB;
+}
+
+.content-bot {
+  flex: 1 1 auto;
+}
+
+.footer {
+  background-color: #1F2937;
+  color: white;
+  display: flex;
+  flex: 0 0 auto;
+  height: 48px;
+  margin-top: auto;
+}
