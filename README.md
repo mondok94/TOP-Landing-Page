@@ -3,4 +3,4 @@ Landing page project for The Odin Project - Flexbox layout. Theme recreated from
 
 All code and work is my own.
 
-Images are 
+No images inserted, all placeholders.
